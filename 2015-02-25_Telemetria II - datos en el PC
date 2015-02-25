@@ -1,4 +1,4 @@
-# Telemetría
+# Telemetría II
 
 Ejemplo de uso de un sistema de radio para envio de datos a un pc (¿raspberry?) donde se guardan.
 
@@ -7,6 +7,14 @@ Fases
 0.1 Montaje provisional de la electrónica DONE!
 0.3 Alimentación solar DONE!
 0.5 Envío de datos al pc DONE!
-0.6 Gráfica en tiempo real de los datos
+0.6 Gráfica en tiempo real de los datos DONE!
 0.7 Guardar datos en el pc formato csv
 0.8 Raspberry
+
+Los ejemplos de código de Arduino y python están tomados de http://electronut.in/plotting-real-time-data-from-arduino-using-python/
+
+En principio hemos usado la configuración por defecto, es decir 57600 baudios
+
+
+
+
